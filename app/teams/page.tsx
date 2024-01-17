@@ -1,7 +1,7 @@
 import GoBack from "@/components/GoBack";
 import SectionTitle from "@/components/SectionTitle";
 import { teams } from "@/data/teams";
-import { teamType } from "@/types/teams";
+import { teamType } from "@/types/team";
 import Link from "next/link";
 
 const TeamsPage = () => {

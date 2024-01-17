@@ -1,4 +1,4 @@
-import { teamType } from "@/types/teams";
+import { teamType } from "@/types/team";
 
 export const teams: teamType[] = [
   {
